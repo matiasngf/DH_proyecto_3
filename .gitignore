@@ -28,3 +28,7 @@ original_datasets/users_ss3\.csv
 original_datasets/users_ts\.csv
 
 \.ipynb_checkpoints/
+
+tweets\.csv
+
+users\.pkl
